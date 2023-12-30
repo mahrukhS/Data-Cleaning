@@ -1,4 +1,7 @@
+# Data Cleaning Using SQL
+
 In this module, we will perform Data Cleaning using SQL Queries.
+
 Following topics will be covered:
 1. Standardizing Data Format
 2. Populating Data
